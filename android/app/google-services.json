@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "85285072266",
+    "firebase_url": "https://smartmoneypro-course-863c9.firebaseio.com",
+    "project_id": "smartmoneypro-course-863c9",
+    "storage_bucket": "smartmoneypro-course-863c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85285072266:android:fdb58887dd5f9c499f6c73",
+        "android_client_info": {
+          "package_name": "br.com.devsamurai.smartmoney_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85285072266-mkt9l62puc00kmskocvjklt8pjmhjh22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ28VusZVG4788uGwP0-DjIMbKSTxlFnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85285072266-mkt9l62puc00kmskocvjklt8pjmhjh22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
